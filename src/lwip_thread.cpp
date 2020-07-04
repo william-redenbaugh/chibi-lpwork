@@ -1,4 +1,9 @@
+/*
+Author: William Redenbaugh
+Last Edit Date: 7/3/2020
+*/
 #include "lwip_thread.hpp"
+
 #include <vector>
 
 /**************************************************************************/
